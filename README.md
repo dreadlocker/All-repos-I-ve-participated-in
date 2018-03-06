@@ -1,5 +1,5 @@
 # All-repos-I-ve-participated-in
-Here are the links for Projects and Commits (my commits shows as dreadlocker or Svetozar Iliev) :
+Here are the links for Projects and Commits (my commits shows as **dreadlocker** or **Svetozar Iliev**) :
 
 1. Project :
   - https://github.com/TeamLeshy/MyBooks
